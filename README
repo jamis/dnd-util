@@ -1,0 +1,7 @@
+BUILDING
+--------
+
+This library was written well before I knew anything about autoconf and
+friends. Thus, the makefile should be considered to be only a guideline, and
+you're expected to actually MUCK WITH IT. Yes, I know. How deliciously
+primitive.
