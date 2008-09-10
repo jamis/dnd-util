@@ -1,3 +1,6 @@
+This library encapsulates the core data and rules (plus a few auxiliary bits
+of data and rules) for D&D, 3rd edition.
+
 BUILDING
 --------
 
